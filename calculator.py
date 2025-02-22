@@ -13,3 +13,6 @@ def divide(a,b):
 
 def square(a,b):
 	return a*a
+
+def triple(a):
+	return 3*a
