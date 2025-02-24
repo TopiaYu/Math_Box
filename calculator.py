@@ -17,5 +17,5 @@ def square(a,b):
 def triple(a):
 	return 3*a
 
-def double(a):
+def double_free(a):
 	return 2*a
