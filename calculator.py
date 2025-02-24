@@ -16,3 +16,6 @@ def square(a,b):
 
 def triple(a):
 	return 3*a
+
+def double(a):
+	return 2*a
