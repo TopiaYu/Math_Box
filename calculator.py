@@ -19,3 +19,6 @@ def triple(a):
 
 def double_new(a):
 	return 2*a
+
+def say_hello():
+	print("hello")
