@@ -17,5 +17,5 @@ def square(a,b):
 def triple(a):
 	return 3*a
 
-def double_premium(a):
+def double_new(a):
 	return 2*a
