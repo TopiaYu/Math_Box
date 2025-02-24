@@ -19,6 +19,3 @@ def triple(a):
 
 def double_free(a):
 	return 2*a
-
-def square_twice(a):
-	return (a*a*a*a)
